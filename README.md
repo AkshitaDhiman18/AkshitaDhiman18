@@ -29,7 +29,6 @@ Hi, I'm Akshita Dhiman, a second-year B.Tech CSE student passionate about techno
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/akshita-dhiman-9422b1325)
-- [Instagram](https://instagram.com/akshitaa735)
 - [Email](mailto:dhimanakshita26@gmail.com)
 
 ---
