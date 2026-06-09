@@ -1,5 +1,5 @@
 INTRODUCTION:-
-Hi, I'm Akshita Dhiman, a second-year B.Tech CSE student passionate about technology, open source, and continuous learning.
+Hi, I'm Akshita Dhiman, a third-year B.Tech CSE student passionate about technology, open source, and continuous learning.
 
 🔹 Learning Python, Git/GitHub & AIML
 🔹 Practicing coding in C++ and improving DSA skills
